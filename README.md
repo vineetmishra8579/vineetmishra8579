@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vineetmishra8579
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning in SRM university chennai
+- 👀 I’m interested in coding and ethical hacking 
+- 🌱 I’m currently persuing my cyber security diploma 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: message me on instagram
-https://www.instagram.com/vineet_mishra_8579/
+https://www.instagram.com/its_vineet_mishra/
 
 <!---
 vineetmishra8579/vineetmishra8579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
